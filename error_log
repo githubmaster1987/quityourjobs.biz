@@ -1,0 +1,4 @@
+[19-Sep-2016 11:40:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/qyj15/public_html/members/registermaster.php on line 124
+[19-Sep-2016 11:41:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/qyj15/public_html/members/registermaster.php on line 124
+[22-Sep-2016 08:45:38 UTC] PHP Fatal error:  Cannot redeclare createApiRequest() (previously declared in /home/abcode15/public_html/quityourjobs.biz/members/registermaster.php:481) in /home/abcode15/public_html/quityourjobs.biz/members/registermaster.php on line 481
+[23-Sep-2016 04:03:27 UTC] PHP Fatal error:  Cannot redeclare createApiRequest() (previously declared in /home/abcode15/public_html/quityourjobs.biz/members/registermaster.php:481) in /home/abcode15/public_html/quityourjobs.biz/members/registermaster.php on line 481

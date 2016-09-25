@@ -1,0 +1,10 @@
+[09-Jul-2015 18:15:40 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home2/success/public_html/members/js/plugins/chartjs/chart-script.php on line 152
+[09-Jul-2015 18:15:48 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home2/success/public_html/members/js/plugins/chartjs/chart-script.php on line 152
+[09-Jul-2015 18:17:08 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home2/success/public_html/members/js/plugins/chartjs/chart-script.php on line 152
+[18-Mar-2016 08:35:23 UTC] PHP Fatal error:  Class 'ezSQL_mysql' not found in /home/millionaire/public_html/members/js/plugins/chartjs/chart-script.php on line 4
+[21-Mar-2016 20:59:55 UTC] PHP Fatal error:  Class 'ezSQL_mysql' not found in /home/millionaire/public_html/members/js/plugins/chartjs/chart-script.php on line 4
+[24-Mar-2016 20:38:24 UTC] PHP Fatal error:  Class 'ezSQL_mysql' not found in /home/millionaire/public_html/members/js/plugins/chartjs/chart-script.php on line 4
+[30-Mar-2016 03:44:20 UTC] PHP Fatal error:  Class 'ezSQL_mysql' not found in /home/millionaire/public_html/members/js/plugins/chartjs/chart-script.php on line 4
+[31-Mar-2016 19:31:19 UTC] PHP Fatal error:  Class 'ezSQL_mysql' not found in /home/millionaire/public_html/members/js/plugins/chartjs/chart-script.php on line 4
+[19-Apr-2016 07:53:41 UTC] PHP Fatal error:  Class 'ezSQL_mysql' not found in /home/millionaire/public_html/members/js/plugins/chartjs/chart-script.php on line 4
+[16-May-2016 01:31:38 UTC] PHP Fatal error:  Class 'ezSQL_mysql' not found in /home/millionaire/public_html/members/js/plugins/chartjs/chart-script.php on line 4

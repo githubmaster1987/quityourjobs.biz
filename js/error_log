@@ -1,0 +1,15 @@
+[20-Nov-2015 17:27:44 Etc/GMT] PHP Warning:  Error establishing mySQL database connection. Correct user/password? Correct hostname? Database server running? in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 84
+[20-Nov-2015 17:27:44 Etc/GMT] PHP Warning:  mySQL database connection is not active in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 116
+[20-Nov-2015 17:27:44 Etc/GMT] PHP Warning:  Error establishing mySQL database connection. Correct user/password? Correct hostname? Database server running? in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 84
+[20-Nov-2015 17:27:44 Etc/GMT] PHP Warning:  mySQL database connection is not active in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 116
+[20-Nov-2015 17:27:46 Etc/GMT] PHP Warning:  Error establishing mySQL database connection. Correct user/password? Correct hostname? Database server running? in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 84
+[20-Nov-2015 17:27:46 Etc/GMT] PHP Warning:  mySQL database connection is not active in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 116
+[20-Nov-2015 17:27:46 Etc/GMT] PHP Warning:  Error establishing mySQL database connection. Correct user/password? Correct hostname? Database server running? in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 84
+[20-Nov-2015 17:27:46 Etc/GMT] PHP Warning:  mySQL database connection is not active in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 116
+[04-Dec-2015 07:31:56 UTC] PHP Warning:  Error establishing mySQL database connection. Correct user/password? Correct hostname? Database server running? in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 84
+[04-Dec-2015 07:31:57 UTC] PHP Warning:  mySQL database connection is not active in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 116
+[04-Dec-2015 07:31:57 UTC] PHP Warning:  Error establishing mySQL database connection. Correct user/password? Correct hostname? Database server running? in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 84
+[04-Dec-2015 07:31:57 UTC] PHP Warning:  mySQL database connection is not active in /home/themillionaires/public_html/members/mysql/ez_sql_mysql.php on line 116
+[20-Mar-2016 06:30:44 UTC] PHP Fatal error:  Class 'ezSQL_mysql' not found in /home/millionaire/public_html/members/js/plugins.js.php on line 8
+[25-Mar-2016 07:57:45 UTC] PHP Fatal error:  Class 'ezSQL_mysql' not found in /home/millionaire/public_html/members/js/plugins.js.php on line 8
+[30-Mar-2016 10:28:56 UTC] PHP Fatal error:  Class 'ezSQL_mysql' not found in /home/millionaire/public_html/members/js/plugins.js.php on line 8
